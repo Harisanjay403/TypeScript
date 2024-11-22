@@ -25,7 +25,7 @@ let fullAddress:Address={
 }
 
 
-// Typescript functoin type is React.FC or 
+// Typescript functoin type is React.FC or Re
 const App: React.FC =()=>{
  
   return (
